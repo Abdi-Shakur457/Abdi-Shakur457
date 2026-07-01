@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Abdi-Shakur 👋
 
-<!--
-**Abdi-Shakur457/Abdi-Shakur457** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a DevOps Engineer focused on building scalable, automated, and reliable systems.
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* ☁️ AWS
+* 🏗️ Terraform
+* 🐳 Docker
+* ☸️ Kubernetes
+* 🚀 GitHub Actions
+* 🔄 CI/CD Pipelines
+* 🐧 Linux
+* 📊 CloudWatch
+* 🌐 Cloudflare
+* 🔧 Git & GitHub
+
+## Projects
+
+I enjoy creating end-to-end cloud projects. Check out my latest one, where I built and deployed a production-style application using ECS Fargate on AWS, with Terraform for infrastructure, Docker for containerisation, and CI/CD pipelines for automated deployment.
